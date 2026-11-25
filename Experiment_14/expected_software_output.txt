@@ -1,0 +1,7 @@
+Binary semaphore, counting semaphore (max 3), mutex created
+Producer: binary semaphore given
+Consumer: binary semaphore taken
+TaskA acquired one of 3 resources
+TaskA updated sharedCounter=1
+TaskB updated sharedCounter=2
+...

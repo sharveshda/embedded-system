@@ -1,0 +1,7 @@
+Periodic timer (2 s) and event group started
+Timer callback: periodic event
+Task received TIMER event bit
+Timer callback: periodic event
+Task received TIMER event bit
+Task received BUTTON event bit
+...

@@ -1,0 +1,4 @@
+ISR attached to GPIO 4; press button to GND
+Deferred task: interrupt event processed
+Deferred task: interrupt event processed
+...

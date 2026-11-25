@@ -1,0 +1,10 @@
+Queue, mailbox and stream buffer created
+Producer queued: 1
+Queue consumer received: 1
+Mailbox latest value: 1
+Stream buffer received 5 bytes
+Producer queued: 2
+Queue consumer received: 2
+Mailbox latest value: 2
+Stream buffer received 5 bytes
+...

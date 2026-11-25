@@ -1,0 +1,6 @@
+Production line start: product 555
+Stage 1 (Assembly): product 555
+Stage 2 (Inspection): product 555
+Stage 3 (Packaging): product 555
+Total annotated processing delay: 30 ns
+Production line complete: TLM_OK_RESPONSE

@@ -1,0 +1,9 @@
+Connected: COM3 at 115200 baud
+Test 1: TEST_SIGNAL_OK - PASS
+Test 2: TEST_SIGNAL_OK - PASS
+Test 3: TEST_SIGNAL_OK - PASS
+Test 4: TEST_SIGNAL_OK - PASS
+Test 5: TEST_SIGNAL_OK - PASS
+PASS: 5
+FAIL: 0
+Success rate: 100%
