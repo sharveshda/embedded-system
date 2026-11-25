@@ -1,0 +1,5 @@
+I2C HEALTH MONITOR
+LM75AD address: 0x48
+Temperature: 28.0 C
+Pulse count (10 s): 12
+Pulse rate: 72 BPM

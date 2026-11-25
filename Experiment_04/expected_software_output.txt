@@ -1,0 +1,5 @@
+HVAC TEMPERATURE CONTROL
+Temperature: 22.0 C | PWM Duty: 0%
+Temperature: 27.0 C | PWM Duty: 30%
+Temperature: 32.0 C | PWM Duty: 60%
+Temperature: 36.0 C | PWM Duty: 90%

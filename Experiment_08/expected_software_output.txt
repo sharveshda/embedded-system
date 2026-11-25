@@ -1,0 +1,6 @@
+Time: 1 ns - Clock Triggered
+Time: 2 ns - Clock Triggered
+Time: 3 ns - Clock Triggered
+Time: 4 ns - Clock Triggered
+Time: 5 ns - Clock Triggered
+Final simulation time: 5 ns

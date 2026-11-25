@@ -1,0 +1,4 @@
+LPC2148 GPIO SWITCH-LED TEST
+Switch input bits (P0.23...P0.16): 00000001
+LED output bits   (P0.15...P0.8): 00000001
+Status: LED pattern follows switch pattern

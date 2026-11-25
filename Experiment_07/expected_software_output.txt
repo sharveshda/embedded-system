@@ -1,0 +1,6 @@
+UART0 INTERRUPT ECHO TEST
+Terminal setting: 19200 baud, 8 data bits, no parity, 1 stop bit
+Typed character: A
+Received data (U0RBR): A
+Transmitted echo (U0THR): A
+Terminal displays: A
