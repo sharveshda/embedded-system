@@ -1,0 +1,6 @@
+FOUR STATE TRAFFIC LIGHT FSM
+STATE S0: NS GREEN / EW RED | duration = 10 s
+STATE S1: NS YELLOW / EW RED | duration = 3 s
+STATE S2: NS RED / EW GREEN | duration = 10 s
+STATE S3: NS RED / EW YELLOW | duration = 3 s
+(repeats continuously)
